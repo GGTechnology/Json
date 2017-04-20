@@ -1,0 +1,48 @@
+{
+    "city": {
+        "coord": {
+            "lat": 39.9075,
+            "lon": 116.3972
+        },
+        "country": "CN",
+        "id": 1816670,
+        "name": "Beijing"
+    },
+    "cnt": 39,
+    "cod": "200",
+    "list": [
+        {
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1488942000,
+            "dt_txt": "2017-03-08 03:00:00",
+            "main": {
+                "grnd_level": 1007.49,
+                "humidity": 19,
+                "pressure": 1007.49,
+                "sea_level": 1032.69,
+                "temp": 14.08,
+                "temp_kf": 5.29,
+                "temp_max": 14.08,
+                "temp_min": 8.789999999999999
+            },
+            "sys": {
+                "pod": "d"
+            },
+            "weather": [
+                {
+                    "description": "clear sky",
+                    "icon": "01d",
+                    "id": 800,
+                    "main": "Clear"
+                }
+            ],
+            "wind": {
+                "deg": 312.002,
+                "speed": 5.12
+            }
+        }
+    ],
+    "message": 0.173
+}
